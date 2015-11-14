@@ -1,0 +1,5 @@
+DrunkenArcher.CSharp.csproj
+DrunkenArcher.sln
+Library/*
+Temp/*
+ProjectSettings/*

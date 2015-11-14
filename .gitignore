@@ -3,3 +3,5 @@ DrunkenArcher.sln
 Library/*
 Temp/*
 ProjectSettings/*
+DeathFromAbove/Library/
+DeathFromAbove/Temp/
